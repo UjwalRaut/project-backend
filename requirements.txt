@@ -40,7 +40,7 @@ numpy==1.21.6
 oauthlib==3.2.2
 opt-einsum==3.3.0
 packaging==23.1
-Pillow==10.0.0
+Pillow==9.5.0
 pip==23.1.2
 platformdirs==3.10.0
 pooch==1.7.0
